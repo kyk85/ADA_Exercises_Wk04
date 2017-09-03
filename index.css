@@ -1,0 +1,29 @@
+#crown img {
+	width: 175px;
+	height: auto;
+}
+
+#outerBox {
+	background-color: darkred;
+	padding:50px 0px;
+	height:600px;
+	min-width:800px;
+	text-align: center;
+	margin:0px 250px;
+}
+
+#crown {
+	color: white;
+	border: 4px double white;
+	padding: 20px; 
+	margin: 0px 200px;
+	font-family: "Montserrat";
+}
+
+#top, #bottom {
+	font-size: 50px;
+}
+
+#middle {
+	font-size: 0.5em;
+}
